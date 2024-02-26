@@ -25,6 +25,7 @@ export const Tarefas = ({ item, indice, delTarefa, marcarTarefa, editarTarefa })
   );
 }
 
+
 const styles = StyleSheet.create({
   container: {
     marginBottom: 10,
